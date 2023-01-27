@@ -4810,3 +4810,31 @@ String requestBody = request.getRequestBodyAsString();
 
 7. Putar musik. Putar musik yang menyenangkan dapat membantu Anda merasa lebih bertenaga saat bangun tidur.
 
+[ LOGS ] bencana alam itu merugikan man... From Fauzi [ 6282262311986 ] 
+
+[ LOGS ] bencana alam itu merugikan man... From Fauzi [ 6282262311986 ] 
+
+[ LOGS ] Test From Fauzi [ 6282262311986 ] 
+
+[ LOGS ] bencana alam itu merugikan man... From Fauzi [ 6282262311986 ] 
+
+[ Answer ] 
+
+Bencana alam dapat menyebabkan kerusakan lingkungan, kerusakan properti, kehilangan nyawa, dan lain-lain. Hal ini dapat menyebabkan kerugian ekonomi, sosial, dan psikologis bagi manusia. Kerugian ekonomi dapat berupa biaya untuk memulihkan properti yang rusak, biaya untuk memulihkan lingkungan, dan biaya untuk mengganti barang-barang yang hilang. Kerugian sosial dapat berupa kehilangan keluarga, teman, dan masyarakat yang terkena dampak bencana. Kerugian psikologis dapat berupa stres, trauma, dan masalah mental yang berkepanjangan.
+
+[ LOGS ] yang harus dilakukan kamu jika... From Fauzi [ 6282262311986 ] 
+
+[ Answer ] 
+
+1. Pastikan kamu dan orang-orang di sekitar kamu berada di tempat yang aman.
+
+2. Ikuti instruksi dari pihak berwenang seperti petugas keamanan, petugas pemadam kebakaran, atau petugas medis.
+
+3. Jangan mencoba untuk meninggalkan area bencana tanpa izin.
+
+4. Jika memungkinkan, bantu orang lain yang terkena dampak bencana alam.
+
+5. Jika kamu terluka, segera cari bantuan medis.
+
+6. Jika kamu menemukan orang lain yang terluka, berikan pertolongan pertama dan segera hubungi petugas medis.
+

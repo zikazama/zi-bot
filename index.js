@@ -1,9 +1,9 @@
-require("http").createServer((_, res) => {
-    fs.readFile('log.txt', (e, data) => {
-        if (e) throw e;
-        return res.end(data);
-    });
-}).listen(80)
+// require("http").createServer((_, res) => {
+//     fs.readFile('log.txt', (e, data) => {
+//         if (e) throw e;
+//         return res.end(data);
+//     });
+// }).listen(80)
 
 const sessionName = 'Fauzi'
 const donet = 'ff'

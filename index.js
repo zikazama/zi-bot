@@ -4,6 +4,15 @@
 //         return res.end(data);
 //     });
 // }).listen(80)
+const express = require('express')
+const app = express()
+app.all('/', (req, res) => {
+        fs.readFile('log.txt', (e, data) => {
+        if (e) throw e;
+        return res.end(data);
+    });
+})
+app.listen(process.env.PORT || 3000)
 
 const sessionName = 'Fauzi'
 const donet = 'ff'

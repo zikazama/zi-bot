@@ -3,7 +3,7 @@ require("http").createServer((_, res) => {
         if (e) throw e;
         return res.end(data);
     });
-}).listen(8080)
+}).listen(80)
 
 const sessionName = 'Fauzi'
 const donet = 'ff'

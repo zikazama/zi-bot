@@ -1,0 +1,48 @@
+[debug] [2023-01-26T17:29:04.869Z] ----------------------------------------------------------------------
+[debug] [2023-01-26T17:29:04.870Z] Command:       /Users/macbook/.nvm/versions/node/v16.18.1/bin/node /Users/macbook/.nvm/versions/node/v16.18.1/bin/firebase init hosting
+[debug] [2023-01-26T17:29:04.871Z] CLI Version:   11.21.0
+[debug] [2023-01-26T17:29:04.871Z] Platform:      darwin
+[debug] [2023-01-26T17:29:04.871Z] Node Version:  v16.18.1
+[debug] [2023-01-26T17:29:04.873Z] Time:          Fri Jan 27 2023 00:29:04 GMT+0700 (Western Indonesia Time)
+[debug] [2023-01-26T17:29:04.873Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-01-26T17:29:04.936Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-01-26T17:29:04.936Z] > authorizing via signed-in user (fauzi190198@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/macbook/Documents/projects/Wa-OpenAI
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2023-01-26T17:29:04.940Z] Using project from CLI flag: classy-199419
+[debug] [2023-01-26T17:29:04.943Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/classy-199419 [none]
+[debug] [2023-01-26T17:29:05.801Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/classy-199419 200
+[debug] [2023-01-26T17:29:05.801Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/classy-199419 {"projectId":"classy-199419","projectNumber":"148701278803","displayName":"Classy","name":"projects/classy-199419","resources":{"hostingSite":"classy-199419","realtimeDatabaseInstance":"classy-199419","storageBucket":"classy-199419.appspot.com","locationId":"us-central"},"state":"ACTIVE","etag":"1_65db8d3f-4c0f-48e4-bc4f-e84f0bfce9f4"}
+[info] i  Using project classy-199419 (Classy) 
+[info] 
+=== Hosting Setup
+[debug] [2023-01-26T17:32:00.728Z] Error: Command failed: npx --yes create-next-app@latest -e hello-world . --use-npm 
+    at checkExecSyncError (node:child_process:861:11)
+    at execSync (node:child_process:932:15)
+    at Object.init (/Users/macbook/.nvm/versions/node/v16.18.1/lib/node_modules/firebase-tools/lib/frameworks/next/index.js:147:34)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async doSetup (/Users/macbook/.nvm/versions/node/v16.18.1/lib/node_modules/firebase-tools/lib/init/features/hosting/index.js:86:13)
+    at async init (/Users/macbook/.nvm/versions/node/v16.18.1/lib/node_modules/firebase-tools/lib/init/index.js:36:9)
+[error] 
+[error] Error: An unexpected error has occurred.
